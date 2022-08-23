@@ -1,0 +1,1 @@
+print("ini file di feature 2")
